@@ -171,3 +171,9 @@ The detailed error is `TSError: x Unable to compile TypeScript. bot/index.ts:63:
 ### Error "cannot estimate gas; transaction may fail or may require manual gas limit"
 
 If you encounter this error, please don't be surprised. First of all, this bot hasn't tested well in bscTestnet. So if you want to run it well you would like better deploy it in bscMainnet. Secondly, since there are a lot of token pairs are deprecated so you need to modify the `pairs-bsc.json`.
+
+## Related links
+
+- [MeetKai](https://meetkai.xyz) — the operator layer behind Kai CMO workflows.
+- [KaiCalls](https://kaicalls.com) — AI voice agents for small-business phone answering and lead capture.
+- [Connor Gallic](https://connorgallic.com) — founder building Kai, KaiCalls, and AI automation systems.
